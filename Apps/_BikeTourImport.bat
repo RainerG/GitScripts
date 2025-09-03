@@ -1,0 +1,1 @@
+call LaunchApp.bat SensorControl
