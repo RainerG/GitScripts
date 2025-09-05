@@ -1,3 +1,0 @@
-Fetching GitScripts
-Fetching origin
-Already up to date.

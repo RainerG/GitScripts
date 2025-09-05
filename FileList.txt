@@ -1,11 +1,3 @@
-CheckinScanner
+Backup
 Common
-CRC32
-FileEncryptDecrypt
-GitAutoCheckout
-GitScripts
-LogScanner
-MapFileScanner
-NvmAnalyzer
-SensorControl
-FileBaseCleaner
+BikeTourImport
