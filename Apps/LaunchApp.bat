@@ -1,3 +1,3 @@
 set app=%1
-cd ..\..\%app%\%app%\bin\Release
+cd ..\..\%app%\bin\Release
 call %app%.exe

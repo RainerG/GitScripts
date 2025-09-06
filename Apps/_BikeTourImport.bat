@@ -1,1 +1,1 @@
-call LaunchApp.bat SensorControl
+call LaunchApp.bat BikeTourImport

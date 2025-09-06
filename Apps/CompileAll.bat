@@ -12,7 +12,7 @@ set cnf=Release
 del %log%
 
 call CompileSLN %vspath% %cspath% Backup %cnf% %log%
-call CompileSLN %vspath% %cspath% BikeTourInfo %cnf% %log%
+call CompileSLN %vspath% %cspath% BikeTourImport %cnf% %log%
 
 
 :EXT
